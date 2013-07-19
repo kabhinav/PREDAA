@@ -40,4 +40,6 @@ implementation is then compared with an optimized tableau algorithm implementati
 characterizing the strengths and weaknesses of the proposed approach.
 </p>
 
+The prototype code in this repo uses [XSB Prolog](http://xsb.sourceforge.net/) system.
+
 [Full Text](http://pro.unibz.it/library/thesis/00006468S\_14424.pdf)
