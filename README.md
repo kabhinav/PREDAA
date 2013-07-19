@@ -1,8 +1,9 @@
 PREDAA
 ======
 
-Practical Reasoning in Expressive Description Logic using Alternating Automata
+[Practical Reasoning in Expressive Description Logic using Alternating Automata](http://pro.unibz.it/library/thesis/00006468S\_14424.pdf)
 
+<p align="justify">
 Description Logic (DL) languages have become a de-facto standard for Knowledge Representation
 in recent times. They helps us in capturing the terminological knowledge of
 the targeted domain in a precise manner. By using DLs, the knowledge of the application
@@ -20,7 +21,9 @@ the logic and another a tableau-based for a practical implementation. The proble
 the automata-based algorithms is that in spite of having nice theoretical properties they
 have best-case exponential behavior. Due to this, to the best of our knowledge, there was
 no attempt made for developing an automata-based reasoning tool for DLs.
+</p>
 
+<p align="justify">
 In this work we investigate the novel possibility of developing automata-based reasoning
 tool for DL ALC. We obtain our results by an innovative approach of dividing the input
 concept into smaller sub-concepts and then checking the satisability of these sub-concepts
@@ -35,5 +38,6 @@ together, they provide a decision procedure for DL ALC. We also present a protot
 of the proposed algorithm in programming language Prolog. This preliminary
 implementation is then compared with an optimized tableau algorithm implementation for
 characterizing the strengths and weaknesses of the proposed approach.
+</p>
 
 [Full Text](http://pro.unibz.it/library/thesis/00006468S\_14424.pdf)
